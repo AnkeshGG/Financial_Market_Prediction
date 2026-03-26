@@ -2,3 +2,5 @@ numpy
 Scikit-learn
 pandas
 matplotlib
+
+cupy-cuda12x   # depending on your CUDA version
